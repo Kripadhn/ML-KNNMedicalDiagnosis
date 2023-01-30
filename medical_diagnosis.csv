@@ -1,0 +1,5 @@
+patient_id,age,gender,symptom_1,symptom_2,diagnosis
+1,30,Male,Fever,Cough,Flu
+2,40,Female,Headache,Nausea,Migraine
+3,50,Male,Chest Pain,Shortness of Breath,Heart Attack
+4,60,Female,Fatigue,Dizziness,Anemia
